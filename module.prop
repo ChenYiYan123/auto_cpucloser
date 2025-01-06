@@ -1,0 +1,7 @@
+id=auto_cpucloser
+name=8Elite自动关闭超大核
+version=v1.0
+versionCode=10
+author=酷安@我是江小白_
+description=白名单应用不在前台时关闭cpu6-7（白名单位于/data/adb/modules/auto_cpucloser/packages.txt，一行填一个包名，请不要删除文件最后的END，白名单修改后重启生效）
+updateJson=
